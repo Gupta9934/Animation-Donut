@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int main() {
     float A = 0, B = 0;
     float i, j;
