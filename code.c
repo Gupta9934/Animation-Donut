@@ -1,3 +1,7 @@
+#include<stdio.h>
+#include<string.h>
+#include<Math.h>
+#include<windows.h>
 int main() {
     float A = 0, B = 0;
     float i, j;
